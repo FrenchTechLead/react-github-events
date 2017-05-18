@@ -1,0 +1,14 @@
+.timeBadgeContainer{
+  float:left;
+}
+.timeBadge{
+  font-size: 8px;
+}
+.eventType{
+  color:blue;
+  font-weight: bold;
+}
+.eventRepository{
+  font-size: 10px;
+  color: darkgray;
+}
