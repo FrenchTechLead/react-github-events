@@ -1,4 +1,4 @@
-#   Simple Month-Picker For React
+#   React GitHub Events
 This is a basic and light component that shows the recent public activity and events of a given GitHub user
 
 ### Presentation
