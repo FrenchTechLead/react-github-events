@@ -1,7 +1,7 @@
 {
   "name": "react-github-events",
   "description": "This is a basic and light component that shows the recent public activity and events of a given GitHub user",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "author": "Akram MECHERI <mecheri.akram@gmail.com> (http://mecheri.altervista.com/)",
   "repository": {
     "type": "git",
