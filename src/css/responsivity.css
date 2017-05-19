@@ -1,0 +1,78 @@
+/*  SECTIONS  */
+.git-section {
+    clear: both;
+    padding: 0px;
+    margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.git-col {
+    display: block;
+    float:left;
+    height: 100%;
+    margin: 1% 0 1% 0%;
+}
+.git-col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.git-group:before,
+.git-group:after { content:""; display:table; }
+.git-group:after { clear:both;}
+.git-group { zoom:1; /* For IE 6/7 */ }
+
+/*  GRID OF TWELVE  */
+.git-span_12_of_12 {
+    width: 100%;
+}
+
+.git-span_11_of_12 {
+    width: 91.66%;
+}
+.git-span_10_of_12 {
+    width: 83.33%;
+}
+
+.git-span_9_of_12 {
+    width: 75%;
+}
+
+.git-span_8_of_12 {
+    width: 66.66%;
+}
+
+.git-span_7_of_12 {
+    width: 58.33%;
+}
+
+.git-span_6_of_12 {
+    width: 50%;
+}
+
+.git-span_5_of_12 {
+    width: 41.66%;
+}
+
+.git-span_4_of_12 {
+    width: 33.33%;
+}
+
+.git-span_3_of_12 {
+    width: 25%;
+}
+
+.git-span_2_of_12 {
+    width: 16.66%;
+}
+
+.git-span_1_of_12 {
+    width: 8.333%;
+}
+
+.git-centered{
+    text-align: center;
+}
+
+.git-avatar{
+    width:50px;
+    border-radius: 50%;
+}

@@ -1,0 +1,45 @@
+.git-container{
+    background-image: url("../img/github.png");
+    background-size: contain;
+    color:black;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Bookman Old Style', serif;
+
+}
+
+.git-left{
+    height: 100%;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size: 12px;
+
+}
+.git-left-text{
+    margin-left:3px;
+}
+.git-middle{
+    font-size: 10px;
+}
+.git-right{
+
+}
+.git-title{
+    font-size: 18px;
+    padding-top:10px ;
+    padding-bottom: 10px;
+}
+.git-section:hover{
+    background-color: lightblue;
+}
+.git-time{
+    color:dimgrey;
+}
+a{
+    color:blue;
+    text-decoration: none;
+}
+.git-bottom-btn{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
